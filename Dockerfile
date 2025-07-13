@@ -23,4 +23,4 @@ ENV NODE_TLS_REJECT_UNAUTHORIZED=0
 EXPOSE 9000
 
 # Start Medusa server
-CMD ["npm", "run", "start"]
+CMD ["npm", "run", "dev"]
